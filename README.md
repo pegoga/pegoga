@@ -47,7 +47,9 @@
 </h1>
 
 
-
+<!-- Video -->
+<a href="https://www.youtube.com/watch?v=r7dZKOL5rcg">V&iacute;deo
+</a>
 
 <!-- Background -->
 
@@ -60,6 +62,8 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
+  
+  <code><img height="40" src="https://user-images.githubusercontent.com/87506328/125887310-d1bab0aa-02fc-4a4e-8b6d-c6af04e75d04.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -113,7 +117,13 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Lunox's favorite languages" />
 </a>
-  
+
+<a href="https://github.com/Lunox-code?tab=repositories">
+  <img align="center" 
+       src="https://camo.githubusercontent.com/76ca66ef0aebadf08cad14b8ee0f22fa754d59672c80051afc267c7dfff8f55f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7261646963616c" 
+       alt='Lunox's favorite languages" />
+</a>                                       
+                                       
 <a href="https://github.com/Lunox-code">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />

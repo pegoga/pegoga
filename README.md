@@ -12,12 +12,12 @@
 <h1 align="center">
 <a href="https://www.instagram.com/webpegoga/">
   <img align="center" 
-       alt="Lunox's Instagram" 
+       alt="Pegoga's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
+<a href="https://stackoverflow.com">
   <img align="center" 
        alt="Stack Overflow" 
        width="22px" 

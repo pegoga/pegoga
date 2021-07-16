@@ -16,6 +16,13 @@
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
+
+<a href="https://www.facebook.com/groups/196897109027746">
+  <img align="center" 
+       alt="Pegoga's Facebook" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/87506328/125892146-d663669e-c5c8-4e1e-ad9e-769a73ecc4d5.png" />
+  </a>  
   
 <a href="https://stackoverflow.com">
   <img align="center" 

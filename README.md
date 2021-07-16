@@ -34,8 +34,9 @@
 
 
 <!-- Video -->
-<a href="https://www.youtube.com/watch?v=r7dZKOL5rcg">V&iacute;deo
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=r7dZKOL5rcg">Programming Expectations vs Reality v&iacute;deo</a>
+</p>
 
 <!-- Background -->
 

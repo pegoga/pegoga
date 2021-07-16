@@ -117,7 +117,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegoga&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Pegoga's favorite languages" />
 </a>                                          
-                                       
+<p>                                   
 <a href="https://github.com/pegoga">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=pegoga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />

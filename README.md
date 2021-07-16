@@ -120,6 +120,6 @@
                                        
 <a href="https://github.com/pegoga">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Pegoga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=pegoga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
 

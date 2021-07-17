@@ -7,6 +7,9 @@
 
 <!-- Quote -->
 <p align="center">I would like to change the World but they won't give me the source code
+<h3>
+  <p align="center">Me gustar&iacute;a cambiar al mundo pero no quisieron dar el c&oacute;digo fuente
+</h3>
   
   <!-- Social Network -->
 <h1 align="center">
